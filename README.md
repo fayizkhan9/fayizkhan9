@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Fayiz Khan 👋
 
-<!--
-**fayizkhan9/fayizkhan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Software Engineer** — Node.js · React · Next.js · React Native
 
-Here are some ideas to get you started:
+I build end-to-end products: backend APIs, databases, web frontends, and mobile apps — then deploy and maintain them in production. Based in Islamabad, Pakistan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 fayizkhan9@gmail.com &nbsp;|&nbsp; 📍 Islamabad, Pakistan
+
+---
+
+### 🧰 What I work with
+
+**Languages:** JavaScript, TypeScript, Java, C#
+**Frontend:** React, Next.js (SSR/SSG), React Native, Redux Toolkit, Tailwind CSS, Vite, Gatsby.js
+**Backend:** Node.js, Express.js, NestJS, REST APIs, JWT/OAuth, Socket.io, Serverless Functions
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Prisma ORM, Supabase, Firebase
+**Cloud & DevOps:** AWS (EC2, S3, RDS), Vercel, Railway, GitHub Actions, GitLab CI, Nginx
+
+---
+
+### 🚀 Things I've built
+
+Most of my project work has been for company clients on private repositories, so the code itself isn't public — but here's what I've shipped:
+
+**[Backstage.sh](https://www.backstage.sh)** — a hotel booking platform
+Built the web app, admin dashboard, client portal, and mobile app end-to-end using Next.js, React Native, and Node.js.
+
+**[3jbni](https://3jbni.com)** — a food review platform
+Developed the Node.js backend powering the mobile app, plus a full admin dashboard for managing content and users.
+
+**[YBM](https://www.ybmapp.co.uk)** — a multi-vendor marketplace
+Delivered the Node.js backend, admin dashboard, and a React Native mobile app for a business/services marketplace supporting multiple vendors.
+
+---
+
+### 💼 Experience
+
+- **Code Experts Ltd** — Full Stack Developer (Oct 2022 – Present)
+  End-to-end ownership: database design, backend APIs, frontend, and deployment across web and mobile products.
+- **Hypertext Solutions Pvt Ltd** — Full Stack Developer (Oct 2021 – Oct 2022)
+  Backend systems in Node.js/Express, frontend in React/Next.js/Gatsby, deployed to VM environments.
+- **58 Studios** — Full Stack Developer (Aug 2020 – Aug 2021)
+  Started as an intern, promoted to part-time developer within three months.
+
+---
+
+### 🎓 Background
+
+BS Software Engineering, COMSATS University Islamabad (2017 – 2021)
+
+---
+
+*Open to interesting full stack roles — feel free to reach out.*
