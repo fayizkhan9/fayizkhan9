@@ -18,7 +18,7 @@ I build end-to-end products: backend APIs, databases, web frontends, and mobile 
 
 ---
 
-### 🚀 Things I've built
+### 🚀 My recent projects
 
 Most of my project work has been for company clients on private repositories, so the code itself isn't public — but here's what I've shipped:
 
