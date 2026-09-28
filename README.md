@@ -7,11 +7,11 @@ I build end-to-end products: backend APIs, databases, web frontends, and mobile 
 ---
 
 ### 🧰 What I work with
-**Languages:** JavaScript, TypeScript, Java, C#
-**Frontend:** React, Next.js (SSR/SSG), React Native, Redux Toolkit, Tailwind CSS, Vite, Gatsby.js
-**Backend:** Node.js, Express.js, NestJS, REST APIs, JWT/OAuth, Socket.io, Serverless Functions
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Prisma ORM, Supabase, Firebase
-**Cloud & DevOps:** AWS (EC2, S3, RDS), Vercel, Railway, GitHub Actions, GitLab CI, Nginx
+- **Languages:** JavaScript, TypeScript, Java, C#
+- **Frontend:** React, Next.js (SSR/SSG), React Native, Redux Toolkit, Tailwind CSS, Vite, Gatsby.js
+- **Backend:** Node.js, Express.js, NestJS, REST APIs, JWT/OAuth, Socket.io, Serverless Functions
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Prisma ORM, Supabase, Firebase
+- **Cloud & DevOps:** AWS (EC2, S3, RDS), Vercel, Railway, GitHub Actions, GitLab CI, Nginx
 
 ---
 
